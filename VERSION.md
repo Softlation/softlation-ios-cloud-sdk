@@ -1,3 +1,6 @@
+Current version: 1.0.1
+=========================
+Update stability of requests, improved offline work
 Current version: 1.0
 =========================
 Update timestamp fixes
