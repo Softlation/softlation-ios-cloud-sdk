@@ -1,3 +1,6 @@
+Current version: 1.0.2
+=========================
+Updated pod settings, mandatory for all users
 Current version: 1.0.1
 =========================
 Update stability of requests, improved offline work
